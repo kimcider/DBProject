@@ -1,0 +1,9 @@
+﻿  20170024.cpp
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(36,2): warning C4094: 태그 없는 'struct'에서 기호를 선언하지 않았습니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(186,8): warning C4101: 'ammount' :참조되지 않은 지역 변수입니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(436,7): warning C4101: 'vip_id' :참조되지 않은 지역 변수입니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(474,7): warning C4101: 'vip_id' :참조되지 않은 지역 변수입니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(493,7): warning C4101: 'vip_id' :참조되지 않은 지역 변수입니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(548,7): warning C4101: 'vip_id' :참조되지 않은 지역 변수입니다.
+C:\Users\zqxq1\Desktop\DB_PJ2\20170024.cpp(660,6): warning C4101: 'state' :참조되지 않은 지역 변수입니다.
+  DB_PJ2.vcxproj -> C:\Users\zqxq1\Desktop\DB_PJ2\x64\Debug\DB_PJ2.exe
