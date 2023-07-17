@@ -41,3 +41,12 @@
 10. **모든 지점에서 품절된 품목 정보 조회**
 11. **예정된 배송 시간을 초과하여 배송되지 않은 주문 정보 조회**
 12. **월말에 청구가 예정된 고객들의 결제 영수증 생성**
+
+
+## E-R Diagram
+![E-RDiaGram](https://github.com/kimcider/DBProject/assets/105146508/ee021d20-08c8-4e7e-84be-a5a00b418811)
+
+## physical Scheme Diagram
+![physicalSchemeDiagram](https://github.com/kimcider/DBProject/assets/105146508/723c8c46-7e85-4338-87ce-b8bea4181826)
+
+
